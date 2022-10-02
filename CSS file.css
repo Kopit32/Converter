@@ -1,0 +1,12 @@
+input {
+    border-radius: 7px;
+    background-color: aquamarine;
+    width: 5cm;
+    height: 50px;
+    margin: 10px;
+}
+input:hover {
+
+    background-color: gray;
+
+}
